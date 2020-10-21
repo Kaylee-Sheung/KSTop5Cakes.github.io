@@ -1,0 +1,12 @@
+div{
+    border: solid 3px #FFFFFF; 
+    margin: 30px; 
+    padding: 10px
+}
+body{
+    background-color: #b3c6ff
+}
+#main-body{
+    margin-left: 50px;
+    margin-top: 25px;
+}
